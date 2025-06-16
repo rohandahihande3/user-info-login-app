@@ -10,5 +10,5 @@ This is a basic web login application built with HTML and Python. It allows user
 - Table display page
 - Backend logic handled via `login.py`
 
-## File Structure
+
 
